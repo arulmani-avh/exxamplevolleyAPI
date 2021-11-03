@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exampleAPI</string>
+    <string name="submit">submit</string>
+    <string name="name">name</string>
+    <string name="select">--select---</string>
+    <string name="Name">Name</string>
+    <string name="Password">password</string>
+    <string name="password">Password</string>
+</resources>
